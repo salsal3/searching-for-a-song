@@ -16,3 +16,4 @@ This constitutes your Project Proposal and Outline, and it should look something
 ```
 ---
 ## Project Proposal
+The aim of our project is to get music recommendations based off of a playlist made from songs chosen by the class, and various metrics such as danceability and energy. We used Spotify's feature-rich API to obtain metric data that 
