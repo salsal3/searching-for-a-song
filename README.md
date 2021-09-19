@@ -1,5 +1,5 @@
 # bcs-project2
-Lauren Bradshaw, Salvador Salazar III
+Lauren Bradshaw, Salvador Salazar III  
 [Slides](https://docs.google.com/presentation/d/1bqQsjUcv2SRFDmtLBy6Sqz6kc4pG7b8wJ13E46pN7zw/edit?usp=sharing)
 
 ---
