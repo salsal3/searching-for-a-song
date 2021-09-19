@@ -1,19 +1,9 @@
 # bcs-project2
-```
-Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
+Lauren Bradshaw, Salvador Salazar III
+[Slides](https://docs.google.com/presentation/d/1bqQsjUcv2SRFDmtLBy6Sqz6kc4pG7b8wJ13E46pN7zw/edit?usp=sharing)
 
-Write this as a brief summary of your interests and intent, including:
-
-* The kind of data you'd like to work with and the field you're interested in (e.g., trading, quantitative analysis).
-
-* Possible source for such data.
-
-* Candidate machine learning or statistical models that you may want to explore.
-
-This constitutes your Project Proposal and Outline, and it should look something like this:
-
-> Our project is to predict credit card fraud. We'll fit a random forest algorithm to lending club data to create a predictive model. We will also fit a deep neural network model to the data and compare the performance of both models to determine which has sufficient predictive power.
-```
 ---
 ## Project Proposal
-The aim of our project is to get music recommendations based off of a playlist made from songs chosen by the class, and various metrics such as danceability and energy. We used Spotify's feature-rich API to obtain metric data that 
+The aim of our project is to explore machine learning processes used within the music industry. To do so, we use metrics taken from Spotify's API, directly and from a curated dataset from Kaggle.
+
+Basing our training data off of a playlist made from among the class's favorite songs, we're able to get recommendations that fit into more specific criteria than the standard algorithm, as well as create visualizations representing the personalities of the tracks.
